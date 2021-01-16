@@ -11,6 +11,7 @@
 		CF50085525B363D000A7A30A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF50085425B363D000A7A30A /* ContentView.swift */; };
 		CF50085725B363D100A7A30A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF50085625B363D100A7A30A /* Assets.xcassets */; };
 		CF50085A25B363D100A7A30A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF50085925B363D100A7A30A /* Preview Assets.xcassets */; };
+		CF50086325B37C6700A7A30A /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF50086225B37C6700A7A30A /* WeatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		CF50085625B363D100A7A30A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CF50085925B363D100A7A30A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CF50085B25B363D100A7A30A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF50086225B37C6700A7A30A /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				CF50085225B363D000A7A30A /* SwiftUI_WeatherApp.swift */,
 				CF50085425B363D000A7A30A /* ContentView.swift */,
+				CF50086225B37C6700A7A30A /* WeatherButton.swift */,
 				CF50085625B363D100A7A30A /* Assets.xcassets */,
 				CF50085B25B363D100A7A30A /* Info.plist */,
 				CF50085825B363D100A7A30A /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				CF50085525B363D000A7A30A /* ContentView.swift in Sources */,
 				CF50085325B363D000A7A30A /* SwiftUI_WeatherApp.swift in Sources */,
+				CF50086325B37C6700A7A30A /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
